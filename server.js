@@ -15,7 +15,7 @@ app.use(cookieParser());
 app.use(
   cors({
     credentials: true,
-    origin: "https://user-mern-authentication.netlify.app",
+    origin: "https://mern-auth-frontend-sandy.vercel.app",
     // origin: [
     //   "http://localhost:5173",
     //   "https://user-mern-authentication.netlify.app"
