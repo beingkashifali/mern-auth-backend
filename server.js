@@ -17,7 +17,7 @@ app.use(
     credentials: true,
     origin: [
       "http://localhost:5173",
-      "https://mern-user-authentication.netlify.app",
+      "https://user-mern-authentication.netlify.app/",
     ],
   }),
 );
